@@ -306,10 +306,10 @@
                                 <div class="col-md-12">
                                     <div class="card">
                                         <div class="card-header">Decision de la Commission</div>
-                                        <div class="card-body">
+                                        <!-- <div class="card-body">
                                             <button class="btn-success">Accorder</button>
                                             <button class="btn-danger">Rejeter</button>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 @endif
